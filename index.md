@@ -29,6 +29,11 @@ Mobile:
 
 ![](solution/solution_mobile.jpg)
 
+### Links
+
+- Solution URL: https://github.com/Subject6735/order-summary-component
+- Live Site URL: https://subject6735.github.io/order-summary-component/
+
 ## My process
 
 ### Built with
