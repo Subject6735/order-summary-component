@@ -23,11 +23,11 @@ Users should be able to:
 
 Desktop:
 
-![](solution/solution_desktop.jpg)
+![](master/solution/solution_desktop.jpg)
 
 Mobile:
 
-![](solution/solution_mobile.jpg)
+![](master/solution/solution_mobile.jpg)
 
 ## My process
 
