@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# Frontend Mentor - Order summary card solution
 
-You can use the [editor on GitHub](https://github.com/Subject6735/order-summary-component/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Table of contents
 
-### Markdown
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Overview
 
-```markdown
-Syntax highlighted code block
+### The challenge
 
-# Header 1
-## Header 2
-### Header 3
+Users should be able to:
 
-- Bulleted
-- List
+- See hover states for interactive elements
 
-1. Numbered
-2. List
+### Screenshot
 
-**Bold** and _Italic_ and `Code` text
+Desktop:
 
-[Link](url) and ![Image](src)
-```
+![](solution/solution_desktop.jpg)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Mobile:
 
-### Jekyll Themes
+![](solution/solution_mobile.jpg)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Subject6735/order-summary-component/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## My process
 
-### Support or Contact
+### Built with
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+
+## Author
+
+- Frontend Mentor - [@Subject6735](https://www.frontendmentor.io/profile/Subject6735)
