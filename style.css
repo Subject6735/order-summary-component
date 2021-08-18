@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display&display=swap');
+
+body {
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Red Hat Display', sans-serif;
+    
+    background-color: hsl(225, 100%, 94%);
+    background-image: url('images/pattern-background-desktop.svg');
+    background-repeat: repeat-x;
+    background-position: top;
+}
+
+#main {
+    color: hsl(224, 23%, 55%);
+    background-color: white;
+    width: 450px;
+    border-radius: 25px;
+    text-align: center;
+    
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    transform: translateX(-50%);
+}
+
+h1, h3 {
+    color: hsl(223, 47%, 23%);
+    font-weight: 900;
+}
+
+.cover-img {
+    border-radius: 25px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.service-info {
+    padding: 0px 50px 0px 50px;
+}
+
+/* Annual Plan */
+
+.plan-padding {
+    padding: 30px 40px 15px 40px;
+}
+
+.plan-info {
+    border-radius: 15px;
+    background-color: hsl(225, 100%, 98%);
+    padding: 20px 0px 20px 0px;
+}
+
+.plan-info img {
+    padding: 0px 15px 0px 20px;
+}
+
+.plan-flex {
+    display: flex;
+    align-items: center;
+}
+
+#plan {
+    display: flex;
+    text-align: left;
+}
+
+#plan h3 {
+    margin-top: 1px;
+    margin-bottom: 0;
+    padding-bottom: 3px;
+}
+
+.change-link div {
+    font-weight: 900;
+}
+
+.change-link {
+    color: rgb(78, 63, 208);
+}
+
+.change-link:hover {
+    text-decoration: none;
+    color: rgb(118, 108, 241);
+}
+
+.change-link-padding {
+    padding-left: 110px;
+}
+
+/* Payment */
+
+.payment-padding {
+    padding: 30px 40px 15px 40px;
+}
+
+.payment-padding div {
+    font-weight: 700;
+}
+
+.payment-padding a {
+    text-decoration: none;
+    color: unset;
+}
+
+#payment {
+    color: white;
+    background-color: hsl(245, 75%, 52%);
+    border-radius: 15px;
+    padding: 15px 25px 15px 25px;
+    box-shadow: 10px 10px 10px 10px hsl(225, 100%, 94%);
+}
+
+#payment:hover {
+    background-color: rgb(118, 108, 241);
+}
+
+/* Cancel Order */
+
+.cancel-link div {
+    padding-top: 15px;
+    padding-bottom: 30px;
+    font-weight: 900;
+}
+
+.cancel-link {
+    text-decoration: none;
+    color: hsl(224, 23%, 55%);
+}
+
+.cancel-link:hover {
+    text-decoration: none;
+    color: hsl(223, 47%, 23%);
+}
+
+/* Attribution */
+
+.attribution { 
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%);
+}
+
+/* Mobile view */
+
+@media only screen and (max-width: 375px) {
+    body {
+        font-size: 15px;
+
+        background-color: hsl(225, 100%, 94%);
+        background-image: url('images/pattern-background-mobile.svg');
+        background-repeat: repeat-x;
+        background-position: top;
+    }
+
+    #main {
+        width: 350px;
+    }
+
+    .cover-img {
+        width: 350px;
+    }
+
+    .change-link-padding {
+        padding-left: 30px;
+    }
+}
