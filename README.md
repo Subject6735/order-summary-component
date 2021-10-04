@@ -19,20 +19,10 @@ Users should be able to:
 
 - See hover states for interactive elements
 
-### Screenshot
-
-Desktop:
-
-![](solution/solution_desktop.jpg)
-
-Mobile:
-
-![](solution/solution_mobile.jpg)
-
 ### Links
 
-- Repository URL: https://github.com/Subject6735/order-summary-component
-- Live Site URL: https://subject6735.github.io/order-summary-component/
+- [GitHub Repository](https://github.com/Subject6735/order-summary-component)
+- [Live Site](https://subject6735.github.io/order-summary-component/)
 
 ## My process
 
@@ -40,7 +30,7 @@ Mobile:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
+- CSS Flexbox
 
 ## Author
 
