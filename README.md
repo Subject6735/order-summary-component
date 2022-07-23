@@ -21,8 +21,7 @@ Users should be able to:
 
 ### Links
 
-- [GitHub Repository](https://github.com/Subject6735/order-summary-component)
-- [Live Site](https://subject6735.github.io/order-summary-component/)
+- [Live site](https://mdeme01.github.io/order-summary-component/)
 
 ## My process
 
@@ -34,4 +33,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@Subject6735](https://www.frontendmentor.io/profile/Subject6735)
+- Frontend Mentor - [@mdeme01](https://www.frontendmentor.io/profile/mdeme01)
